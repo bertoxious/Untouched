@@ -1,6 +1,7 @@
 # Untouched  
 <details>
   <sumary><h1>Public Wallet</h1></summary> 
+  <br>
   - [ ] - Generate a Qr Code  
   - [ ] - Add the credentials required for the qr code  
   - [ ] - Generate Dynamic links for creation and updation of the data 
