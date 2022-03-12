@@ -5,10 +5,10 @@
 <details>
   <summary><h1>Public Wallet</h1></summary> 
   <br>
-  ```markdown
+  ```markdown  
   - [ ] - Generate a Qr Code  
   - [ ] - Add the credentials required for the qr code  
-  - [ ] - Generate Dynamic links for creation and updation of the data 
+  - [ ] - Generate Dynamic links for creation and updation of the data   
   ```
 </details>
 <details>
