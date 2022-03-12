@@ -2,8 +2,8 @@
 
 ## Public Wallet
 1. :x: Generate a Qr Code  
-  - create qr code 
-  - delete qr code
+    - create qr code 
+    - delete qr code
 2. :x: Add the credentials required for the qr code  
 3. :x: Generate Dynamic links for creation and updation of the data   
 
