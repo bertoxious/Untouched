@@ -3,7 +3,7 @@
 
 
 <details>
-  <summary>Public Wallet</summary> 
+  <summary><h1>Public Wallet</h1></summary> 
   <br>
   - [ ] - Generate a Qr Code  
   - [ ] - Add the credentials required for the qr code  
