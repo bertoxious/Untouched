@@ -1,6 +1,6 @@
 # Untouched  
 <details>
-  <sumary><h1>Public Wallet</h1></summary> 
+  <sumary>Public Wallet</summary> 
   <br>
   - [ ] - Generate a Qr Code  
   - [ ] - Add the credentials required for the qr code  
