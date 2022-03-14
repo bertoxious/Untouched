@@ -9,6 +9,8 @@
 
 <details>
   <summary><h1>Portfolio</h1></summary>  
-  - [ ] - Make a Gradient color changing smoke in the background  
-  - [ ] - Add a transparent card over to it transparency - 80%  
+   Make a Gradient color changing smoke in the background  
+    <br>
+   Add a transparent card over to it transparency - 80%  
+    <br>
 </details?
